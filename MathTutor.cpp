@@ -1,6 +1,8 @@
 /*File Name: MathTutor.cpp
 Programmer: Chad Gould
-09/20/2025*/
+09/20/2025
+Requirements: Program should display two random numbers to be added. 
+Program should then pause. When the student is ready to check the answer, they can press a key and the program will display the correct solution.*/
 
 #include <iostream>
 #include <cstdlib>   
